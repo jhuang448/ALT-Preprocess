@@ -67,4 +67,5 @@ $seg_dir
 
 ## Preconstructed Data Splits
 
-Data splits for the latest version datasets are provided in `./input/preconstructed-split/`.
+Data splits for the latest version datasets are provided in `./input/preconstructed-split/`. 
+Please read the README.md in that directory for more details.
